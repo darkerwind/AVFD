@@ -1,0 +1,6 @@
+model_checkpoint_path: "1280x720.ckpt-175000"
+all_model_checkpoint_paths: "1280x720.ckpt-174600"
+all_model_checkpoint_paths: "1280x720.ckpt-174700"
+all_model_checkpoint_paths: "1280x720.ckpt-174800"
+all_model_checkpoint_paths: "1280x720.ckpt-174900"
+all_model_checkpoint_paths: "1280x720.ckpt-175000"
